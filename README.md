@@ -1,1 +1,2 @@
 # terraform-aws-practice
+This repository contains Terraform code for practicing AWS infrastructure provisioning. It includes examples of how to create various AWS resources such as EC2 instances, S3 buckets, and VPCs using Terraform.
