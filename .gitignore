@@ -1,3 +1,9 @@
 .terraform/
+<<<<<<< HEAD
 terraform.tfstate
 terraform.tfstate.backup
+=======
+*.tfstate
+*.tfstate.backup
+terraform.tfvars
+>>>>>>> 99e544a (Added full terraform assignment project structure)
