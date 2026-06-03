@@ -213,5 +213,5 @@ terraform destroy
 
 ## 👤 Author
 
-**Your Name** — DevOps Training Assignment  
+**Anshu sharma** — DevOps Training Assignment  
 May 21–22, 2024
